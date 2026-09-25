@@ -1,0 +1,8 @@
+{
+  "nodes": ["a", "b", "c", "d", "e"],
+  "edges": [["a", "b"], ["a", "c"], ["b", "d"], ["c", "d"]],
+  "add_edge": ["d", "e"],
+  "height": 3,
+  "relayout_changed": 1,
+  "layer_invariant": true
+}
